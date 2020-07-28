@@ -1,4 +1,4 @@
-# my_music_ui
+# My_Music_UI
 
 A ui design for a music application. Just clearing the concepts of design in flutter by manipulating designs.
 
